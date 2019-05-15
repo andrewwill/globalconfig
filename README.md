@@ -1,0 +1,2 @@
+# globalconfig
+testing global config
